@@ -7,14 +7,17 @@
     "miniapp": {
       "version": "1",
       "name": "Startale Mini App",
-      "iconUrl": "https://yourdomain.com/icon.png",
-      "homeUrl": "https://yourdomain.com",
-      "splashImageUrl": "https://yourdomain.com/splash.png",
+      "iconUrl": "https://startale-miniapps.vercel.app/icon.png",
+      "homeUrl": "https://startale-miniapps.vercel.app/",
+      "splashImageUrl": "https://startale-miniapps.vercel.app/splash.png",
       "splashBackgroundColor": "#1a1a1a",
       "subtitle": "Startale Mini App Example",
       "description": "Example code to learn how to create Mini Apps!",
       "primaryCategory": "productivity",
       "tags": ["onchain", "tasks", "rewards"],
+      "screenshotUrls": [
+        "https://startale-miniapps.vercel.app/screenshot.png"
+      ],
       "requiredChains": ["eip155:1946"]
     }
 }
