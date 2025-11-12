@@ -1,0 +1,20 @@
+{
+    "accountAssociation": {
+      "header": "",
+      "payload": "",
+      "signature": ""
+    },
+    "miniapp": {
+      "version": "1",
+      "name": "Startale Mini App",
+      "iconUrl": "https://yourdomain.com/icon.png",
+      "homeUrl": "https://yourdomain.com",
+      "splashImageUrl": "https://yourdomain.com/splash.png",
+      "splashBackgroundColor": "#1a1a1a",
+      "subtitle": "Startale Mini App Example",
+      "description": "Example code to learn how to create Mini Apps!",
+      "primaryCategory": "productivity",
+      "tags": ["onchain", "tasks", "rewards"],
+      "requiredChains": ["eip155:1946"]
+    }
+}
